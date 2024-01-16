@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Ronaz
 
-A computer science student and passionate about developing software that cam help improve people's quality of life
+A computer science student, passionate about developing software that cam help improve people's quality of life
 
 - 🔭 I’m currently working on **creating my first deep neural network, writing my own operating system**
 
